@@ -1,4 +1,3 @@
-```
 # you-win-you-do
 
 you-win-you-do is a Python-based software that helps users cultivate healthy habits by engaging in debates with an AI-powered GPT (Generative Pre-trained Transformer) model. The purpose of this software is to encourage users to reflect on their behaviors and make more informed decisions.
